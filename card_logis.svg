@@ -1,0 +1,9 @@
+<svg xmlns='http://www.w3.org/2000/svg' width='360' height='240' viewBox='0 0 360 240'>
+<defs><linearGradient id='g' x1='0' x2='1' y1='0' y2='1'><stop stop-color='#F8FAFC'/><stop offset='1' stop-color='#E8F5E9'/></linearGradient></defs>
+<rect width='360' height='240' rx='30' fill='url(#g)' stroke='#00695C' stroke-width='6'/>
+<circle cx='180' cy='76' r='46' fill='#00695C' opacity='.96'/>
+<text x='180' y='94' text-anchor='middle' font-size='44'>📚</text>
+<foreignObject x='28' y='128' width='304' height='84'>
+<div xmlns='http://www.w3.org/1999/xhtml' style='font-family:Arial,sans-serif;font-size:23px;font-weight:800;line-height:1.15;text-align:center;color:#102A43;display:flex;align-items:center;justify-content:center;height:84px;overflow:hidden;'>Logis dan sistematis</div>
+</foreignObject>
+</svg>
